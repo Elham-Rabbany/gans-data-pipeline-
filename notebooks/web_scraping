@@ -1,6 +1,0 @@
-import pandas as pd
-import requests
-from bs4 import BeautifulSoup
-import sqlalchemy
-
-## 1 Webscrabe from Wiki information for few cities
