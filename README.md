@@ -19,3 +19,8 @@ This project is a two-phase data pipeline designed for Gans e-scooter mobility a
 - `/data`: Sample datasets used during development.
 - `/notebooks`: Jupyter notebooks demonstrating the pipeline implementation.
 - `/docs`: Documentation and visualizations.
+
+- ## How to Use
+- Setting up the MySQL database.
+- Running the local pipeline.
+- Deploying the pipeline to the cloud.
