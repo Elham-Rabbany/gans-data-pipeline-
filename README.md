@@ -45,7 +45,6 @@ This project is a two-phase data pipeline designed for Gans e-scooter mobility a
 
 **Useful Links**:
 - [OpenWeatherMap API Documentation](https://openweathermap.org/api)
-- [Sign Up for OpenWeatherMap API Key](https://home.openweathermap.org/users/sign_up)
 - [Requests Library Documentation](https://docs.python-requests.org/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 
