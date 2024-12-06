@@ -7,3 +7,7 @@ This project uses **Google Cloud Scheduler** to collect weather and flight data 
 - **Schedules Tasks**: Google Cloud Scheduler runs the data collection automatically at set times.
 - **Collects Data**: Gathers **weather** and **flight** arrival information.
 - **Provides Insights**: Sends the data to GANs for analysis and insights.
+
+
+
+- Use the provided SQL script to configure your database: SQL_Database_script
