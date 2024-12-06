@@ -10,4 +10,4 @@ This project uses **Google Cloud Scheduler** to collect weather and flight data 
 
 
 
-- Use the provided SQL script to configure your database: SQL_Database_script
+- Use the provided SQL script to configure your database: [SQL_Database_script](https://github.com/Elham-Rabbany/gans-data-pipeline-/blob/main/Cluod%20Pipeline/SQL_Database_script.sql)
