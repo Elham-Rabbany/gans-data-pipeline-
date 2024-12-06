@@ -13,7 +13,7 @@ The project retrieves 5-day weather forecasts for multiple cities and organizes 
    ```bash
    pip install requests pandas
    ```
-2. **API Key**: Get a free API key from [OpenWeather](https://home.openweathermap.org/users/sign_up) and replace `YOUR_API_KEY` in the script.
+2. **API Key**: Get a free API key from [OpenWeather](https://home.openweathermap.org/users/sign_up) ,  recommend using the [5 day forecast](https://openweathermap.org/forecast5) and replace `YOUR_API_KEY` in the script.
 
 ## How to Use
 1. Define a list of cities in the script.
