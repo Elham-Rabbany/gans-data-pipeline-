@@ -1,4 +1,4 @@
-# Gans Data Pipeline
+# Building Data Pipelines for E-Scooter Mobility
 
 ## Overview
 This project is a two-phase data pipeline designed for Gans e-scooter mobility analytics. It begins with local development for data collection and transformation, followed by cloud migration for enhanced scalability and automation.
